@@ -22,3 +22,10 @@ ax2 = plt.subplot(212, sharex=ax1)
 ax2.plot(t, np.sin(4*np.pi*t))
 
 plt.show()
+
+# %%
+# .. tags::
+#
+#    component: axis
+#    plot-type: line
+#    level: beginner
